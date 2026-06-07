@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    justify-content:space-between;
+    background-color:pink;
+    padding: 20px;
+}
+.list{
+    list-style: none;
+}
+
+.link{
+    text-decoration:none;
+    color: white;
+    background-color:black;
+    padding: 10px;
+    border-radius: 10px;
+    color: deeppink;
+}
+.link:hover{
+    color: white;
+    background-color: pink;
+    cursor: pointer;
+}
+
